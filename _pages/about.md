@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am now an Research Assistant surpervised by [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu) at the Department of Information Management, Peking University, China. I have obtained a master degree in management from School of Economics and Management University Chineses Academy of Sciences. My master thesis focus on  the mobility of scientists and their scientific outputs.  My research interests lie in innovation, science of science and network analysis.
+I am now a Research Assistant surpervised by [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu) at the Department of Information Management, Peking University, China. I have obtained a master degree in management from School of Economics and Management University Chineses Academy of Sciences. My master thesis focus on  the mobility of scientists and their scientific outputs.  My research interests lie in science of science and network analysis.
 
 Education
 ======
-School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China
-Master in Corporate Management, GPA: 3.79/4.0
-School of Finance, Tianjin University of Finance and Economics, Tianjin, China
-Bachelor in Financial Engineering, GPA: 3.64/4.0
+-School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China
+-Master in Corporate Management, GPA: 3.79/4.0
+-School of Finance, Tianjin University of Finance and Economics, Tianjin, China
+-Bachelor in Financial Engineering, GPA: 3.64/4.0
 
 
 
@@ -33,7 +33,6 @@ Bachelor thesis project on investigating price linkage characteristics between C
 Pubilications
 ======
 Tang Chaoying, Gao Jinyu. Analysis on the Synergy of the Scientific and Technological Talents Policy Compound System: Taking the Guangdong-Hong Kong-Macao Greater Bay Area as an Example [J]. Science and Technology Management Research,2022,42(13):115-122. (CSSCI, Published in Chinese)
-汤超颖,高晋宇.科技人才政策复合系统协同度分析：以粤港澳大湾区为例[J].科技管理研究,2022,42(13):115-122.
 
 Woking Papers
 ======
