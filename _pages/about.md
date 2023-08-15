@@ -13,8 +13,11 @@ I am now a Research Assistant surpervised by [Prof. Yi Bu](https://buyi08.wixsit
 Education
 ======
 -**School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China**
+
  *Master* in Corporate Management, *2020-2023*
+
 -**School of Finance, Tianjin University of Finance and Economics, Tianjin, China**
+
  *Bachelor* in Financial Engineering, *2016-2020*
 
 
