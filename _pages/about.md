@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant surpervised by [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu) at the Department of Information Management, Peking University, China. I have obtained a master degree in management from School of Economics and Management University Chineses Academy of Sciences. My master thesis focus on  the mobility of scientists and their scientific outputs.  My research interests lie in science of science and network analysis.
+I am now a Research Assistant surpervised by [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu) at the Department of Information Management, Peking University, China. I have obtained a master degree in management from School of Economics and Management, University Chineses Academy of Sciences. My master thesis focus on  the mobility of scientists and their scientific outputs. My research interests lie in science of science and network analysis.
 
 Education
 ======
--School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China
--Master in Corporate Management, GPA: 3.79/4.0
--School of Finance, Tianjin University of Finance and Economics, Tianjin, China
--Bachelor in Financial Engineering, GPA: 3.64/4.0
+-**School of Economics and Management, University of Chinese Academy of Sciences, Beijing, China**
+ *Master* in Corporate Management, *2020-2023*
+-**School of Finance, Tianjin University of Finance and Economics, Tianjin, China**
+ *Bachelor* in Financial Engineering, *2016-2020*
 
 
 
