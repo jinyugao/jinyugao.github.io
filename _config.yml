@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinyu's homepage"
+title                    : "Jinyu's personal website"
 title_separator          : "-"
 name                     : &name "Jinyu Gao"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jinyu Gao"
-  avatar           : "IMG_0372.png"
-  bio              : "RA at Peking University"
+  avatar           : "photo.png"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           :
