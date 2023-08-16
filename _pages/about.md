@@ -34,6 +34,8 @@ Skills
 * Softwares: Python, Stata, Gephi
 * Languages: Mandarin Chinese (Native), English (IELTS 7.0)
 
-
-
+Photos
+======
+"IMG_E8865.png"
+"IMG_9187.png"
 
