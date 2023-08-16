@@ -22,7 +22,7 @@ Work experience
   * Supervisor: [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
 * Fall 2022: Teaching Assistant
-  * University Chineses Academy of Sciences
+  * University of Chineses Academy of Sciences
   * Course: Organization Behavior
 
 Publications
