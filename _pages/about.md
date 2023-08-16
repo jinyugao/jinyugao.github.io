@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant surpervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. I have graduated from University of Chinese Academy of Sciences in 2023, and my master thesis investigated the relationships between the mobility of scientists and their scientific outputs. I am currentlu working on how the team interdisciplines effect scientific innovation. My research interests lie in science of science, Innovation and network analysis.
+I am now a Research Assistant surpervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. I have graduated from University of Chinese Academy of Sciences in 2023, and my master thesis investigated the relationships between the mobility of scientists and their scientific outputs. I am currently working on how the team interdisciplines effect scientific innovation. My research interests lie in science of science, innovation and network analysis.
 
 Education
 ======
