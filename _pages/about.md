@@ -19,7 +19,6 @@ Work experience
 ======
 * 2023-now: Research Assistant
   * Peking University
-  * Duties included: Tagging issues
   * Supervisor: [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
 * Fall 2022: Teaching Assistant
