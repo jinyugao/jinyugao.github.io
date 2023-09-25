@@ -34,8 +34,8 @@ Skills
 * Softwares: Python, Stata, Gephi
 * Languages: Mandarin Chinese (Native), English (IELTS 7.0)
 
----
-title: "Photo"
-excerpt: "Short description of me<br/><img src='/images/IMG_E8865.png'>"
-collection: aboutme
+Photos
+======
+"<img src='/images/IMG_E8865.png'>"
+"<img src='/images/IMG_9187.png'>"
 ---
