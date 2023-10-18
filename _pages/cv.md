@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You could find my [CV](/files/CV.pdf) here.
+You could find my [CV](/files/CV-Jinyu Gao(202309).pdf) here.
