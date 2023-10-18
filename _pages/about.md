@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant supervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. My research interests lie in science of science, innovation and network analysis.
+I am now a Research Assistant supervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. My research interests lie in science of science, scientometrics, bibliometrics, innovation and network analysis.
 
 Education
 ======
-* B.S. in Financial Engineering, Tianjin University of Finance and Economics, 2016-2020
 * M.S. in Corporate Management, University of Chinese Academy of Sciences, 2020-2023
-
+* B.S. in Financial Engineering, Tianjin University of Finance and Economics, 2016-2020
+  
 Work experience
 ======
 * June 2023-now: Research Assistant
