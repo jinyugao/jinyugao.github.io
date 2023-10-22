@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Assistant supervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. My research interests lie in science of science, scientometrics, bibliometrics, innovation and network analysis.
+My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. My research interests lie in science of science, scientometrics, bibliometrics, innovation and network analysis.
 
 Education
 ======
