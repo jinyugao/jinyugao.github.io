@@ -12,8 +12,17 @@ My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Pr
 
 Education
 ======
-* M.S. in Corporate Management, University of Chinese Academy of Sciences, 2020-2023
-* B.S. in Financial Engineering, Tianjin University of Finance and Economics, 2016-2020
+* M.S. in Corporate Management, University of Chinese Academy of Sciences, Beijing, China, 2020-2023
+  * Thesis title: Study of scientist’s mobility effects on research output.
+  * GPA: 3.79/4.0
+  * Outstanding Student Award, University of Chinese Academy of Sciences, 2021-2023, (Top 25%)
+
+* B.S. in Financial Engineering, Tianjin University of Finance and Economics, Tianjin, China, 2016-2020
+  * Thesis title: Price linkage characteristics between stock index and stock index futures.
+  * GPA: 3.64/4.0
+  * The Third Prize Scholarship, Tianjin University of Finance and Economics, 2016-2019, (Top 25%)
+  * The Third Prize of the 11th National Undergraduate Mathematics Competition (non-mathematics major), Chinese Mathematical Society, 2019, (Top 35%)
+
   
 Work experience
 ======
