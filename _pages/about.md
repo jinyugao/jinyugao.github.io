@@ -38,6 +38,22 @@ Publications
 ======
 * Jinyu Gao, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. Submitted to iConference 2024, Poster.
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Fig.2_teamgender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**The citation disadvantage of female-as-corresponding-author research teams in biology**
+
+Jinyu Gao, Yi Bu. 
+
+Submitted to iConference 2024, Poster.
+
+[[PDF]](https://.pdf)
+
+- First and corresponding authors are often regarded as leading members in a research team. Distinguishing the gender composition of leading authors paints a nuanced picture on the gender differences in scientific performance at the research team level. This poster selects scientific publications in 2010 in the field of biology and finds that, in mixed-gender teams, while female authors hold a higher rank trend in publications’ bylines than male authors, female-as-corresponding-author research teams tend to receive less citations.
+</div>
+</div>
+
+
 Working Papers
 ======
 * Jinyu Gao, Yi Bu. Inequal development of national innovation capacity.
