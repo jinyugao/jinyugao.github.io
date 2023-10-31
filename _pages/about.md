@@ -38,7 +38,7 @@ Publications
 ======
 * Jinyu Gao, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. Submitted to iConference 2024, Poster.
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Fig.2_teamgender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Fig.2_teamgender.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The citation disadvantage of female-as-corresponding-author research teams in biology**
