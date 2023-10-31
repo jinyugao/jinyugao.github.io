@@ -56,7 +56,6 @@ Working Papers
     </div>
 </div>
 
-
 Working Papers
 ======
 * Jinyu Gao, Yi Bu. Inequal development of national innovation capacity.
