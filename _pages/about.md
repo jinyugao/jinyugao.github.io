@@ -36,13 +36,11 @@ Work experience
 
 Working Papers
 ======
-<div class='paper-box' style="display: flex; align-items: flex-start;">
+<div class='paper-box' style="display: flex;">
     <div class='image-container' style='flex: 1;'>
         <div>
             <img src='images/Fig.1_teamgender.png' alt="Image 1" width="100%">
         </div>
-    </div>
-    <div class='image-container' style='flex: 1;'>
         <div>
             <img src='images/Fig.2_teamgender.png' alt="Image 2" width="100%">
         </div>
@@ -58,8 +56,6 @@ Working Papers
     </div>
 </div>
 
-<!-- Add a clear section to separate the "Working Papers" -->
-<div style='clear: both;'></div>
 
 Working Papers
 ======
