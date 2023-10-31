@@ -34,7 +34,7 @@ Work experience
   * School of Economics and Management, University of Chinese Academy of Sciences
   * Course: Organization Behavior
 
-Publications
+Working Papers
 ======
 <div class='paper-box'>
     <div class='image-container' style='float: left; width: 40%;'>
