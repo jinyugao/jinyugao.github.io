@@ -36,7 +36,7 @@ Work experience
 
 Working Papers
 ======
-<div class='paper-box' style="display: flex;">
+<div class='paper-box'>
     <div class='image-container' style='flex: 1;'>
         <div>
             <img src='images/Fig.1_teamgender.png' alt="Image 1" width="100%">
