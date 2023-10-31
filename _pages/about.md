@@ -58,8 +58,6 @@ Publications
     </div>
     <div style='clear: both;'></div>
 </div>
-</div>
-
 
 Working Papers
 ======
