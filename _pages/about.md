@@ -47,7 +47,7 @@ My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Pr
         Submitted to iConference 2024, Poster.
         [[PDF]](https://.pdf)
 
-        First and corresponding authors are often regarded as leading members in a research team. Distinguishing the gender composition of leading authors paints a nuanced picture on the gender differences in scientific performance at the research team level. This poster selects scientific publications in 2010 in the field of biology and finds that, in mixed-gender teams, while female authors hold a higher rank trend in publications’ bylines than male authors, female-as-corresponding-author research teams tend to receive fewer citations.
+        - First and corresponding authors are often regarded as leading members in a research team. Distinguishing the gender composition of leading authors paints a nuanced picture on the gender differences in scientific performance at the research team level. This poster selects scientific publications in 2010 in the field of biology and finds that, in mixed-gender teams, while female authors hold a higher rank trend in publications’ bylines than male authors, female-as-corresponding-author research teams tend to receive fewer citations.
     </div>
     <div style='clear: both;'></div>
 </div>
@@ -56,6 +56,7 @@ My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Pr
 
 * Softwares: Python, Stata, Gephi
 * Languages: Mandarin Chinese (Native), English (IELTS 7.0)
+
 
 
 # Working Papers
