@@ -34,7 +34,7 @@ My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Pr
   * School of Economics and Management, University of Chinese Academy of Sciences
   * Course: Organization Behavior
 
-Working Papers
+# Working Papers
 
 <div class='paper-box'>
     <div class='image-container' style='float: left; width: 40%;'>
