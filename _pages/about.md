@@ -10,8 +10,8 @@ redirect_from:
 
 My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Prof. Yi Bu at the Department of Information Management, Peking University, China. My research interests lie in science of science, scientometrics, bibliometrics, innovation and network analysis.
 
-Education
-======
+# Education
+
 * M.S. in Corporate Management, University of Chinese Academy of Sciences, Beijing, China, 2020-2023
   * Thesis title: Study of scientist’s mobility effects on research output.
   * GPA: 3.79/4.0
@@ -24,8 +24,8 @@ Education
   * The Third Prize of the 11th National Undergraduate Mathematics Competition (non-mathematics major), Chinese Mathematical Society, 2019, (Top 35%)
 
   
-Work experience
-======
+# Work experience
+
 * June 2023-now: Research Assistant
   * Center for Informationalization and Information Management, Peking University
   * Supervisor: [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu)
@@ -35,7 +35,7 @@ Work experience
   * Course: Organization Behavior
 
 Working Papers
-======
+
 <div class='paper-box'>
     <div class='image-container' style='float: left; width: 40%;'>
         <div>
@@ -47,7 +47,7 @@ Working Papers
             <img src='images/Fig.2_teamgender.png' alt="Image 2" width="100%">
         </div>
     </div>
-    <div class='paper-box-text' style='float: left; width: 60%;' markdown="1">
+    <div class='paper-box-text' style='float: right; width: 60%;' markdown="1">
         <h2>The citation disadvantage of female-as-corresponding-author research teams in biology</h2>
         <p>Jinyu Gao, Yi Bu.</p>
         <p>Submitted to iConference 2024, Poster.</p>
@@ -59,17 +59,19 @@ Working Papers
     <div style='clear: both;'></div>
 </div>
 
-Working Papers
-======
+
+
+# Working Papers
+
 * Jinyu Gao, Yi Bu. Inequal development of national innovation capacity.
 
-Skills
-======
+# Skills
+
 * Softwares: Python, Stata, Gephi
 * Languages: Mandarin Chinese (Native), English (IELTS 7.0)
 
-Photos
-======
+# Photos
+
 <img src='/images/IMG_E8865.png'>
 
 <img src='/images/IMG_9187.png'>
