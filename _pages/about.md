@@ -58,16 +58,6 @@ My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Pr
 * Languages: Mandarin Chinese (Native), English (IELTS 7.0)
 
 
-
-# Working Papers
-
-* Jinyu Gao, Yi Bu. Inequal development of national innovation capacity.
-
-# Skills
-
-* Softwares: Python, Stata, Gephi
-* Languages: Mandarin Chinese (Native), English (IELTS 7.0)
-
 # Photos
 
 <img src='/images/IMG_E8865.png'>
