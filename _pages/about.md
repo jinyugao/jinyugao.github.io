@@ -37,7 +37,7 @@ My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Pr
 # Working Papers
 
 **The citation disadvantage of female-as-corresponding-author research teams in biology**
-* Jinyu Gao, Yi Bu.[[PDF]](https://.pdf)
+* Jinyu Gao, Yi Bu.[[PDF]](https://jinyugao.github.io/files/The citation disadvantage of female-as-corresponding-author research teams in biology.pdf)
 * Submitted to iConference 2024, Poster.
 * First and corresponding authors are often regarded as leading members in a research team. Distinguishing the gender composition of leading authors paints a nuanced picture on the gender differences in scientific performance at the research team level. This poster selects scientific publications in 2010 in the field of biology and finds that, in mixed-gender teams, while female authors hold a higher rank trend in publications’ bylines than male authors, female-as-corresponding-author research teams tend to receive fewer citations.</li>
 
