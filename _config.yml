@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinyu's personal website"
+title                    : "Jinyu Gao"
 title_separator          : "-"
 name                     : &name "Jinyu Gao"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jinyu Gao"
-  avatar           : "IMG_0372.png"
+  avatar           : "DSC_0037.png"
   bio              : " "
   location         : "Beijing, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/jinyu_gao_"
   vine             :
   weibo            :
   xing             :
