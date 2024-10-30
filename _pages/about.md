@@ -12,13 +12,13 @@ Jinyu Gao is a PhD student in the College of Information Science at the Universi
 
 # Education
 
-* University of Arizona, 2024-present \\
-Ph.D. in Information Science \\
-\\
-* University of Chinese Academy of Sciences, 2020-2023 \\
-M.S. in Management Science \\
-\\
-* Tianjin University of Finance and Economics, 2016-2020 \\
+* University of Arizona, 2024-present 
+Ph.D. in Information Science
+
+* University of Chinese Academy of Sciences, 2020-2023 
+M.S. in Management Science 
+
+* Tianjin University of Finance and Economics, 2016-2020 
 B.S. in Financial Engineering
 
   
@@ -34,7 +34,7 @@ B.S. in Financial Engineering
 
 # Publications
 
-* **Jinyu Gao**, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. 19th International Conference, iConference 2024, Changchun, China, April 15–26, 2024, Poster.[PDF](https://www.ideals.illinois.edu/items/129997) \\
+* **Jinyu Gao**, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. 19th International Conference, iConference 2024, Changchun, China, April 15–26, 2024, Poster. [PDF](https://www.ideals.illinois.edu/items/129997) 
 
 
 # Skills
