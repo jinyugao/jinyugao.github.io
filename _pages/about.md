@@ -12,13 +12,13 @@ Jinyu Gao is a PhD student in the College of Information Science at the Universi
 
 # Education
 
-* University of Arizona, 2024-present 
+* University of Arizona, 2024-present \\
 Ph.D. in Information Science
 
-* University of Chinese Academy of Sciences, 2020-2023 
+* University of Chinese Academy of Sciences, 2020-2023 \\
 M.S. in Management Science 
 
-* Tianjin University of Finance and Economics, 2016-2020 
+* Tianjin University of Finance and Economics, 2016-2020 \\
 B.S. in Financial Engineering
 
   
