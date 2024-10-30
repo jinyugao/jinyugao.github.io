@@ -12,13 +12,13 @@ Jinyu Gao is a PhD student in the College of Information Science at the Universi
 
 # Education
 
-{\sl University of Arizona} \hfill 2024-present \\
+* University of Arizona, 2024-present \\
 Ph.D. in Information Science \\
 \\
-{\sl University of Chinese Academy of Sciences} \hfill 2020-2023 \\
+* University of Chinese Academy of Sciences, 2020-2023 \\
 M.S. in Management Science \\
 \\
-{\sl Tianjin University of Finance and Economics} \hfill 2016-2020 \\
+* Tianjin University of Finance and Economics, 2016-2020 \\
 B.S. in Financial Engineering
 
   
@@ -32,10 +32,9 @@ B.S. in Financial Engineering
   * School of Economics and Management, University of Chinese Academy of Sciences
   * Course: Organization Behavior
 
-# Working Papers
+# Publications
 
-**The citation disadvantage of female-as-corresponding-author research teams in biology**
-* \textbf{Jinyu Gao}, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. \textit{19th International Conference, iConference 2024, Changchun, China, April 15–26, 2024}, Poster.[[PDF]]([https://jinyugao.github.io/files/The citation disadvantage of female-as-corresponding-author research teams in biology.pdf](https://www.ideals.illinois.edu/items/129997))
+* **Jinyu Gao**, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. \textit{19th International Conference, iConference 2024, Changchun, China, April 15–26, 2024}, Poster.[[PDF]]([https://www.ideals.illinois.edu/items/129997])
 \\
 * First and corresponding authors are often regarded as leading members in a research team. Distinguishing the gender composition of leading authors paints a nuanced picture on the gender differences in scientific performance at the research team level. This poster selects scientific publications in 2010 in the field of biology and finds that, in mixed-gender teams, while female authors hold a higher rank trend in publications’ bylines than male authors, female-as-corresponding-author research teams tend to receive fewer citations.</li>
 
