@@ -24,7 +24,7 @@ B.S. in Financial Engineering
   
 # Experience
 
-* June 2023 - June 2024: Research Assistant
+* July 2023 - June 2024: Research Assistant
   * Center for Informationalization and Information Management, Peking University
   * Supervisor: [Dr. Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
