@@ -34,9 +34,7 @@ B.S. in Financial Engineering
 
 # Publications
 
-* **Jinyu Gao**, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. \textit{19th International Conference, iConference 2024, Changchun, China, April 15–26, 2024}, Poster.[[PDF]]([https://www.ideals.illinois.edu/items/129997])
-\\
-* First and corresponding authors are often regarded as leading members in a research team. Distinguishing the gender composition of leading authors paints a nuanced picture on the gender differences in scientific performance at the research team level. This poster selects scientific publications in 2010 in the field of biology and finds that, in mixed-gender teams, while female authors hold a higher rank trend in publications’ bylines than male authors, female-as-corresponding-author research teams tend to receive fewer citations.</li>
+* **Jinyu Gao**, Yi Bu. The citation disadvantage of female-as-corresponding-author research teams in biology. 19th International Conference, iConference 2024, Changchun, China, April 15–26, 2024, Poster.[PDF](https://www.ideals.illinois.edu/items/129997) \\
 
 
 # Skills
