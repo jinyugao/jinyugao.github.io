@@ -8,25 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jinyu Gao (高晋宇), I am now a Research Assistant supervised by Prof. Yi Bu at Center for Informationalization and Information Management, Peking University, China. My research interests lie in science of science, scientometrics, bibliometrics, innovation and network analysis.
+Jinyu Gao is a PhD student in the College of Information Science at the University of Arizona. She received her MS in Management Science from the University of Chinese Academy of Sciences in 2023 and her BS in Financial Engineering from Tianjin University of Finance and Economics in 2020.
 
 # Education
 
-* M.S. in Corporate Management, University of Chinese Academy of Sciences, Beijing, China, 2020-2023
-  * Thesis title: Study of scientist’s mobility effects on research output.
-  * GPA: 3.79/4.0
-  * Outstanding Student Award, University of Chinese Academy of Sciences, 2021-2023, (Top 25%)
-
-* B.S. in Financial Engineering, Tianjin University of Finance and Economics, Tianjin, China, 2016-2020
-  * Thesis title: Price linkage characteristics between stock index and stock index futures.
-  * GPA: 3.64/4.0
-  * The Third Prize Scholarship, Tianjin University of Finance and Economics, 2016-2019, (Top 25%)
-  * The Third Prize of the 11th National Undergraduate Mathematics Competition (non-mathematics major), Chinese Mathematical Society, 2019, (Top 35%)
+{\sl University of Arizona} \hfill 2024-present \\
+Ph.D. in Information Science \\
+\\
+{\sl University of Chinese Academy of Sciences} \hfill 2020-2023 \\
+M.S. in Management Science \\
+\\
+{\sl Tianjin University of Finance and Economics} \hfill 2016-2020 \\
+B.S. in Financial Engineering
 
   
-# Work experience
+# Experience
 
-* June 2023-now: Research Assistant
+* June 2023 - June 2024: Research Assistant
   * Center for Informationalization and Information Management, Peking University
   * Supervisor: [Prof. Yi Bu](https://buyi08.wixsite.com/yi-bu)
 
